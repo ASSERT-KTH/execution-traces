@@ -30,6 +30,7 @@ would produce
 ```
 
 and no traces of `assertEquals` as it is not a method from `org.myPackage`. (Note that a method from a class `org.myPackage.subPackage.MyCLass` will be logged.
+(The first node (named `Threads`) contains as children a node for each thread whose `class` is `"null"` with `method` containing the name of the thread (In this example `main`, as we monitor only the main thread).
 
 ## Projects traced
 
