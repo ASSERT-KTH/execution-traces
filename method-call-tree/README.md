@@ -36,6 +36,7 @@ and no traces of `assertEquals` as it is not a method from `org.myPackage`. (Not
 
  * commons-lang 3.3.2
  * commons-codec 1.10
+ * commons-collections 4.0
  * commons-io 2.4
  * Gson 2.3.2
  * jgit 3.7.0
