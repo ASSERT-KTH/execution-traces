@@ -1,3 +1,3 @@
 # Execution traces
 
-This repo contains java executions traces. FOr more details see each subdirectory.
+This repo contains java executions traces. For more details see each subdirectory.
